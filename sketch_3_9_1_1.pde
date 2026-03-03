@@ -11,7 +11,7 @@ void setup (){
 
 void draw () { 
   background(0);
-  // Fem el calcul de la velocitat
+  // Fem el càlcul de la velocitat
   vx = 2;
   x = x + vx;
   
@@ -48,3 +48,4 @@ void draw () {
   ellipse(x*9, height/2 +150, 20, 20);
   ellipse(x*10, height/2 +200, 20, 20);
 }
+
