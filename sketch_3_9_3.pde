@@ -37,7 +37,7 @@ void draw() {
   
 
     
-    if (y >= height - 100){ //Quan la bola torna a la mateixa alçada que a l'inici, es deté el moviment
+    if (y >= height - 100){ // Quan la bola torna a la mateixa alçada que a l'inici, es deté el moviment
     moviment = false;
     vy = 0;
     }
@@ -53,3 +53,4 @@ void mouseClicked() {
   y = height - 100;
   trajectoria.clear(); // Esborrem la trajectòria anterior per tal que desaparegui abans de començar el nou tir
 }
+
