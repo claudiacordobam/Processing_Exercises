@@ -39,7 +39,7 @@ void setup() {
   movement = new PVector();
   
   // Initial conditions
-    speed = 0; // Object starts from rest
+  speed = 0; // Object starts from rest
   planeAngle = 30; // Initial angle in degrees
 
 }
