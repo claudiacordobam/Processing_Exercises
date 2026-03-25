@@ -60,7 +60,7 @@ git clone https://github.com/claudiacordobam/Processing_Exercises.git
 
 ---
 
-✨ Notes
+## ✨ Notes
 
 This repository is part of my personal learning process, so you may find:
 
@@ -72,7 +72,7 @@ This repository is part of my personal learning process, so you may find:
 
 ---
 
-👩🏻‍💻 Author
+## 👩🏻‍💻 Author
 
 **Claudia Córdoba**
 
