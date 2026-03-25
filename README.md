@@ -68,6 +68,8 @@ This repository is part of my personal learning process, so you may find:
 - Experimental code
 - Different approaches to similar problems
 
+*Please note that I am taking this course in Catalan, so some of the code or comments may be in that language.*
+
 ---
 
 👩🏻‍💻 Author
