@@ -14,7 +14,12 @@ In this repository, you will find different sketches that combine:
 - 🎥 Visual simulations
 - 💡 Creative coding techniques using Processing
 
-Each exercise is designed to reinforce both programming skills and the understanding of physical concepts in a multimedia context.
+📖 **Book Reference**  
+The exercises in this repository are based on the following book:
+
+- **Merino Arranz, D., Rossinyol Casals, E., & Pérez-Navarro, A. (2021). _Física i programació_. Barcelona: Editorial UOC.**
+
+These exercises provide structured practice in both physics and programming, and they have been solved and organised here to support learning and self-study. Each exercise is designed to reinforce both programming skills and the understanding of physical concepts in a multimedia context.
 
 ---
 
